@@ -12,8 +12,7 @@ function handleEditClick(item) {
     })
 
     // window.location.reload();
-    // window.location.reload();
-    // window.location.reload();
+
 
 }
 
